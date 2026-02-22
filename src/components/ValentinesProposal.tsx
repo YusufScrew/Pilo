@@ -176,7 +176,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
             I love you Gadis Kecil! 💕
-            <p className="text-sm mt-4">Makin tua jangan sering ngambek ngembek xixixi!!! 💌</p>
+            <p className="text-sm mt-4">Makin tua jangan sering ngambek ngambek xixixi!!! 💌</p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
